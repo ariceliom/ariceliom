@@ -32,7 +32,7 @@ Reach me out:
   </a>
 </p>
 
-### Databases & Design Tools
+### Databases & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
