@@ -38,6 +38,9 @@ Reach me out:
 </div>
 
 # 📊 GitHub Stats:
+![Snake animation](https://github.com/ariceliom/ariceliom/blob/output/github-contribution-grid-snake.svg)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
