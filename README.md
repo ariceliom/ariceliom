@@ -1,4 +1,5 @@
-![ariceliomoura-github](https://github.com/ariceliom/ariceliom/assets/89526853/68abf6a8-cd4d-435f-9b95-ba5d136f1cda)
+![Business Linkedin Banner](https://github.com/ariceliom/ariceliom/assets/89526853/3450e7ca-a1b9-441e-a16c-7f73e9b0cfe8)
+
 
 ## About Me
 
