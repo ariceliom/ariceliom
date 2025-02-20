@@ -1,4 +1,4 @@
-![Business Linkedin Banner](https://github.com/ariceliom/ariceliom/assets/89526853/3450e7ca-a1b9-441e-a16c-7f73e9b0cfe8)
+![assinatura email](https://github.com/user-attachments/assets/34155c9a-70af-425a-b5ed-b695479dff17)
 
 
 ## About Me
