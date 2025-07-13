@@ -20,7 +20,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php,typescript,html,css,java" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,typescript,html,css,java&theme=light" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,wordpress,nodejs,angular,tailwindcss,bootstrap,npm,spring" />
+    <img src="https://skillicons.dev/icons?i=jquery,wordpress,nodejs,angular,tailwindcss,bootstrap,npm,spring&theme=light" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,mysql,notion,firebase,git,github,gitlab,figma,webstorm,vscode,eclipse,linux,kali" />
+    <img src="https://skillicons.dev/icons?i=postman,mysql,notion,firebase,git,github,gitlab,figma,webstorm,vscode,eclipse,linux,ubuntu,kali,sublime&theme=light" />
   </a>
 </p>
 
