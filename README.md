@@ -20,7 +20,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,typescript,html,css" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,react,jquery,wordpress,flutter,nodejs,angular,spring,laravel,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angularjs,jquery,wordpress,elementor,node,nodejs,angular,tailwindcss,bootstrap" />
   </a>
 </p>
 
