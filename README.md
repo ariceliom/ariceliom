@@ -1,4 +1,4 @@
-![assinatura email](https://github.com/user-attachments/assets/34155c9a-70af-425a-b5ed-b695479dff17)
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/1d722432-dfb2-46da-83e2-8e5657be4f2e" />
 
 
 ## About Me
