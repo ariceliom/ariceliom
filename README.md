@@ -29,7 +29,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angularjs,jquery,wordpress,elementor,node,nodejs,angular,tailwindcss,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=jquery,wordpress,nodejs,angular,tailwindcss,bootstrap,materialize" />
   </a>
 </p>
 
