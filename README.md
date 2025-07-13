@@ -20,7 +20,7 @@ Reach me out:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,java" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php" />
   </a>
 </p>
 
