@@ -5,15 +5,15 @@
 
 🚀 Always looking for knowledge<br>
 🎓 I am currently studying a Bachelor's degree in Software Engineering at UniFanor University.<br>
-💻 Some technologies I enjoy working with include JavaScript, React, Node, Firebase, Git, GitHub, HTML, CSS.<br>
-🌐 Visit my portfolio ariceliomoura.com
+💻 Some technologies I enjoy working with include JavaScript, HTML5, CSS3, Angular, PHP, Node, Firebase, MySQL, Git, GitHub, .<br>
+🌐 Visit my portfolio <a href="https://ariceliomoura.com.br"> ariceliomoura.com.br</a>
 
 ##  Let's Connect
 Reach me out: 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariceliomoura/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aricelio-moura-87070b236/)
-[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://ariceliomoura.com/biolink/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariceliomoura/)
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://ariceliomoura.com.br/link/)
 
 # Tech Stack  
 ### Languages
